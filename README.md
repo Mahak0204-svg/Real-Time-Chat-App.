@@ -1,5 +1,5 @@
 # 💬 Real-Time Chat App
-
+![image alt](https://github.com/Mahak0204-svg/Real-Time-Chat-App./blob/c29fdee32fad122e8e9368b8b1a848818254cf2f/img)
 A modern **real-time chat application** built with **React**, **Node.js**, and **WebSocket (ws)**. Instantly connect and chat with others in real-time.
 
 ---
